@@ -10,3 +10,5 @@ It can edit a few bits in the following games:
  * Pokémon Shuffle (3DS)
  * Rhythm Paradise Megamix (3DS)
  * StreetPass Mii Plaza (3DS)
+
+https://dylqn.github.io/BOTW/
